@@ -12,8 +12,8 @@ Aquí están algunas de las tecnologías y lenguajes con los que trabajo habitua
 
 | Categoría | Tecnologías y Lenguajes |
 | :--- | :--- |
-| **Lenguajes Core** | `Python` • `JavaScript (ES6+)` • `C#` • `SQL` |
-| **Backend & APIs** | `Node.js` • `Django / Flask` • `ASP.NET Core` • `RESTful APIs` |
+| **Lenguajes Core** | `Python` • `JavaScript (ES6+)` • `C#` • `SQL` • `PHP`  |
+| **Backend & APIs** | `Laravel`•`Livewire` •`Node.js` • `Django / Flask` • `ASP.NET Core` • `RESTful APIs` |
 | **Bases de Datos** | `PostgreSQL` • `MySQL` • `MongoDB` |
 | **DevOps & Cloud** | `Docker` • `Git / GitHub` • `Linux` • `AWS / Azure (Básico)` |
 | **Ciberseguridad** | `Análisis de Vulnerabilidades` • `Pruebas de Penetración (Nivel Introductorio)` |
@@ -40,9 +40,9 @@ Un innovador mecanismo preventivo para la búsqueda de personas, centrado en red
 
 Siempre estoy abierto a discutir nuevas ideas, colaborar en proyectos interesantes o simplemente hablar de tecnología y ciberseguridad.
 
-* **🌐 Portfolio/Web:** [Tu Enlace a Portfolio/LinkedIn]
-* **📧 Email:** [Tu Correo Electrónico Profesional]
-* **🔗 LinkedIn:** [Tu Enlace de LinkedIn]
+* **🌐 Portfolio/Web:** [www.diinsystem.ddns.net/beto]
+* **📧 Email:** [alvertokarlos@gmail.com]
+* **🔗 LinkedIn:** [www.linkedin.com/in/luis-alberto-amador-flores-5b9307133]
 
 > "La mejor seguridad no es la que se instala, sino la que se piensa."
 
