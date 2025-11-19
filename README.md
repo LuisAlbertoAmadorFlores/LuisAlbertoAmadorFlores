@@ -12,11 +12,12 @@ Aquí están algunas de las tecnologías y lenguajes con los que trabajo habitua
 
 | Categoría | Tecnologías y Lenguajes |
 | :--- | :--- |
-| **Lenguajes Core** | `Python` • `JavaScript (ES6+)` • `C#` • `SQL` • `PHP`  |
+| **Lenguajes Core** | `Python` • `JavaScript (ES6+)` • `C#` • `SQL` • `PHP`• `C++`  |
 | **Backend & APIs** | `Laravel`•`Livewire` •`Node.js` • `Django / Flask` • `ASP.NET Core` • `RESTful APIs` |
 | **Bases de Datos** | `PostgreSQL` • `MySQL` • `MongoDB` |
 | **DevOps & Cloud** | `Docker` • `Git / GitHub` • `Linux` • `AWS / Azure (Básico)` |
 | **Ciberseguridad** | `Análisis de Vulnerabilidades` • `Pruebas de Penetración (Nivel Introductorio)` |
+| **Server OS** | `Centos` • `Windows Server 2016` |
 
 ---
 
