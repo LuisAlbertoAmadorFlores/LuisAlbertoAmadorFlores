@@ -1,56 +1,48 @@
-# 👋 Hola, soy Luis Alberto Amador Flores
+# 👋 ¡Hola! Soy Luis Alberto Amador Flores
+### **Ingeniero en TI | Desarrollador Fullstack Senior | Especialista en Ciberseguridad**
 
-Soy un apasionado desarrollador de software e ingeniero centrado en crear soluciones tecnológicas que resuelven problemas reales. Mi enfoque principal reside en la intersección de la **Ciberseguridad**, las **Soluciones IT** y el desarrollo de **Software robusto y eficiente**.
-
-¡Bienvenido a mi espacio digital de código!
+Soy un apasionado de la tecnología centrado en crear soluciones que resuelven problemas reales. Mi enfoque reside en la intersección de la **Ciberseguridad**, las **Soluciones IT** y el desarrollo de **Software Robusto**. Actualmente, escalo mis conocimientos cursando la **Maestría en Seguridad Informática** en el Instituto Suizo.
 
 ---
 
-## 🛠️ Mi Stack de Tecnología y Herramientas
-
-Aquí están algunas de las tecnologías y lenguajes con los que trabajo habitualmente:
+### 🛠️ Mi Stack Tecnológico
 
 | Categoría | Tecnologías y Lenguajes |
 | :--- | :--- |
-| **Lenguajes Core** | `Python` • `JavaScript (ES6+)` • `C#` • `SQL` • `PHP`• `C++`  |
-| **Backend & APIs** | `Laravel`•`Livewire` •`Node.js` • `Django / Flask` • `ASP.NET Core` • `RESTful APIs` |
-| **Bases de Datos** | `PostgreSQL` • `MySQL` • `MongoDB` |
-| **DevOps & Cloud** | `Docker` • `Git / GitHub` • `Linux` • `AWS / Azure (Básico)` |
-| **Ciberseguridad** | `Análisis de Vulnerabilidades` • `Pruebas de Penetración (Nivel Introductorio)` |
-| **Server OS** | `Centos` • `Windows Server 2016` |
+| **Lenguajes Core** | PHP (Experto), JavaScript (ES6+), Python, SQL, Java |
+| **Backend & APIs** | Laravel, Livewire, Node.js, RESTful APIs |
+| **Bases de Datos** | MySQL (Optimización avanzada), MongoDB, SQL Server |
+| **DevOps & Cloud** | Git/GitHub, Docker, Linux (Debian/CentOS), Windows Server |
+| **Ciberseguridad** | Análisis Forense, Gestión de Riesgos, Pentesting, Hardening de Servidores |
 
 ---
 
-## 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados y Experiencia
 
-Echa un vistazo a algunos de los proyectos en los que he estado trabajando o liderando:
+#### ☁️ **Dinx (SaaS ERP)**
+Liderazgo técnico en la creación de soluciones ERP en la nube.
+* Arquitectura escalable en **Laravel + MySQL**.
+* Enfoque en alta disponibilidad y seguridad de datos empresariales.
 
-### 🐺 DIIN SYSTEM (Ciberseguridad & IT)
-Un proyecto enfocado en proveer soluciones de **Ciberseguridad y Soporte TI** para optimizar la infraestructura de negocio. Exploro temas como:
-* Implementación de sistemas de seguridad a nivel N1-N4.
-* Gestión de Redes e Infraestructura.
-
-### 🏔️ KAXAN (Software de Búsqueda Preventiva)
-Un innovador mecanismo preventivo para la búsqueda de personas, centrado en reducir el tiempo de respuesta. Este proyecto utiliza tecnologías para:
+#### 🏔️ **KAXAN (Software de Búsqueda Preventiva)**
+Mecanismo preventivo para la búsqueda de personas con enfoque en reducción de tiempos de respuesta.
 * Desarrollo de algoritmos de localización rápida.
-* Diseño de interfaces para equipos de rescate.
+* Diseño de interfaces críticas para equipos de rescate.
+
+#### 🛡️ **Seguridad Institucional**
+Experiencia previa en la **Secretaría de Seguridad Pública** realizando análisis forense y respuesta a incidentes cibernéticos.
 
 ---
 
-## 🤝 Conectemos
-
-Siempre estoy abierto a discutir nuevas ideas, colaborar en proyectos interesantes o simplemente hablar de tecnología y ciberseguridad.
-
-* **🌐 Portfolio/Web:** [www.diinsystem.ddns.net/beto]
-* **📧 Email:** [alvertokarlos@gmail.com]
-* **🔗 LinkedIn:** [www.linkedin.com/in/luis-alberto-amador-flores-5b9307133]
-
-> "La mejor seguridad no es la que se instala, sino la que se piensa."
-
-**Gracias por visitar mi perfil. ¡Feliz codificación!**
+### 📊 Estadísticas de GitHub
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LuisAlbertoAmadorFlores&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlbertoAmadorFlores&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisAlbertoAmadorFlores&style=flat-square&color=blue" alt="GitHub Visitors" />
-</p>
+### 🤝 Conectemos
+📧 **Email:** [alvertokarlos@gmail.com](mailto:alvertokarlos@gmail.com)
+🔗 **LinkedIn:** [Luis Alberto Amador Flores](https://www.linkedin.com/in/luis-alberto-amador-flores-5b9307133)
+🌐 **Portfolio:** [diinsystem.ddns.net/beto](http://www.diinsystem.ddns.net/beto)
+
+*"La mejor seguridad no es la que se instala, sino la que se piensa."*
